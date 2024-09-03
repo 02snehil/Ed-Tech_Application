@@ -1,0 +1,32 @@
+.content-management {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .content-management ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .content-management li {
+    margin-bottom: 10px;
+  }
+  
+  .content-management button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .content-management button:hover {
+    background-color: #0056b3;
+  }
+  
